@@ -2,7 +2,7 @@
   "name": "my-react-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://KatlegoMothoagae.github.io/ParadiseNursery",
+  "homepage": "https://deluxe-gumption-400083.netlify.app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
